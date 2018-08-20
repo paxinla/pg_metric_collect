@@ -1,0 +1,8 @@
+*.swp
+*.log
+*.pyc
+build
+dist
+ENV
+main.spec
+__pycache__
